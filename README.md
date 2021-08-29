@@ -1,5 +1,6 @@
 ## About
-Control and drive your Yellowtec Mika Mic Tally Light using an Arduino and Adafruit Motor Shield via Stream Deck.  
+Control and drive your Yellowtec Mika Mic Tally Light using an Arduino and Adafruit Motor Shield via Stream Deck.
+This project was inspired by excellent (Avital Pekker's blogpost)[https://avital.ca/notes/a-closer-look-at-apples-breathing-light] and work done by [Quant Girl's on two-piece normal distribution](https://quantgirl.blog/two-piece-normal/) implementation in python.
 ## Usage
 Just upload the `MicTallyLightControl.ino` file and add 3 buttons to your Stream Deck profile with the following commands (COM4 Serial port is used in these examples, your port number might differ, so don't forget to check):
 I've found that using the following arguments makes running the PowerShell scripts practically invisible and non-distructing. 
